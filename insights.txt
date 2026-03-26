@@ -1,0 +1,25 @@
+
+INSIGHTS PRINCIPAIS
+═══════════════════
+
+1. MARGEM DA BANCA
+   • Média geral          : 5.05%
+   • Liga com menor margem: Italy - Serie A (4.52%)
+   • Liga com maior margem: England - Northern League Division 1 (11.58%)
+
+2. VANTAGEM DO MANDANTE
+   • Liga com maior vantagem do mandante: Croatia - Prva NL
+     (diferença de 16.6pp na probabilidade implícita)
+
+3. VOLATILIDADE
+   • Liga com maior volatilidade de odds: UEFA - Conference League
+     (σ médio intra-evento = 0.149)
+
+4. MERCADO (MAX MONEY LINE)
+   • Champions League e Premier League têm os maiores limites de aposta,
+     indicando maior liquidez e confiança do mercado nesses jogos.
+
+5. COMPORTAMENTO DAS ODDS
+   • As odds do mandante tendem a cair levemente nas 24h antes do jogo,
+     sugerindo que o mercado pressiona em favor do time da casa à medida
+     que o jogo se aproxima.
